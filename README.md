@@ -29,7 +29,7 @@ To use `doser-with-headers`, you can specify various command-line options to tai
 ./doser -p 'http://example.com/api/submit' -d '{"key":"value"}' -H 'Content-Type: application/json' -t 200
 ./doser -g 'http://example.com' -H 'Authorization: Bearer token;Custom-Header: value' -t 150
 ```
-Instalation
+### Installation
 ```shell
 git clone https://github.com/yourusername/doser-with-headers.git
 cd doser-with-headers
