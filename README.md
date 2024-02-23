@@ -1,7 +1,5 @@
 # doser-with-headers
 
-`doser-with-headers` is a versatile command-line tool designed for conducting load testing on web applications. This tool allows you to easily send high volumes of GET or POST requests to a specified URL, making it an invaluable resource for developers looking to test the robustness and scalability of their web applications under heavy load. Additionally, it supports custom HTTP headers, enabling more complex testing scenarios, such as API testing with authentication tokens or custom content types.
-
 ## Features
 
 - **Custom HTTP Headers:** Specify custom headers for your requests to test different scenarios and configurations.
