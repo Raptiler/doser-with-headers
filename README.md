@@ -31,7 +31,7 @@ To use `doser-with-headers`, you can specify various command-line options to tai
 ```
 ### Installation
 ```shell
-git clone https://github.com/yourusername/doser-with-headers.git
+git clone https://github.com/Raptiler/doser-with-headers.git
 cd doser-with-headers
 go build
 ```
